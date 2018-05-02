@@ -233,7 +233,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('/static/img/header-bg.png');
+  background-image: url('/static/img/skydive.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
