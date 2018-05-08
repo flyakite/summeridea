@@ -18,7 +18,7 @@ body {
   color: #fed136;
 }
 .text-secondary {
-  color: #5558fa;
+  color: #2277dd;
 }
 p {
   font-size: 14px;
@@ -275,7 +275,7 @@ header .intro-text .intro-heading {
   header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
-    font-size: 70px;
+    font-size: 50px;
     line-height: 75px;
     margin-bottom: 50px;
   }
